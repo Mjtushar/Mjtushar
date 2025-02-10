@@ -10,7 +10,7 @@ Languages:* Python, C++
 *Databases:* MySQL
 
 ## Currently Learning
-Data Structures & Algorithms
+Data Structures & Algorithms,
 Machine Learning & Al
 
 ## 📫 Connect with Me  
